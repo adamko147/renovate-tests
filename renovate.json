@@ -3,8 +3,5 @@
     "extends": [
         "github>adamko147/renovate-tests"
     ],
-    "reviewers": [
-        "adamko147-test"
-    ],
-    "additionalReviewers": []
+    "additionalReviewers": ["adamko147-test"]
 }
