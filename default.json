@@ -1,0 +1,18 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:base"
+    ],
+    "rangeStrategy": "bump",
+    "labels": [
+        "dependencies"
+    ],
+    "vulnerabilityAlerts": {
+        "labels": [
+            "security"
+        ]
+    },
+    "reviewers": [
+        "adamko147"
+    ]
+}
