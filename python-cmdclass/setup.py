@@ -10,7 +10,7 @@ setup(
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
-        'aiohttp==3.7.2',
+        'aiohttp==3.7.3',
     ],
     cmdclass={
         'sdist': sdist
